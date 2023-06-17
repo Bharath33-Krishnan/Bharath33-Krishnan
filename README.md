@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bharath33-Krishnan
 - 👀 I’m interested in Procedural Generation, Game Development and Shaders.
-- 🌱 I’m currently learning Android Studio, DSA , OpenGL
+- 🌱 I’m currently learning OpenGL, Experimenting with Shaders and different game libraries
 
 <!---
 Bharath33-Krishnan/Bharath33-Krishnan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
